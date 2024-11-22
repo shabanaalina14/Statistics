@@ -1,25 +1,24 @@
-Statistics with Code - README
+#Statistics with Code - README
 
-Overview
+#Overview
 This repository provides a collection of statistical concepts, methods, and techniques implemented in code. It serves as an educational resource for understanding statistics and performing various statistical analyses using programming languages such as Python. The examples and code provided will cover both descriptive and inferential statistics, data visualization, and machine learning topics.
 
 
-Table of Contents
+#Table of Contents
 
-Statistical Concepts Covered
-Descriptive Statistics
-Inferential Statistics
-Probability
-Regression Analysis
-Hypothesis Testing
-Machine Learning
-Code Examples
-Mean, Median, Mode
-Standard Deviation
-T-Test
-Contributing
-License
-Installation
+-Statistical Concepts Covered
+-Descriptive Statistics
+-Inferential Statistics
+-Probability
+-Regression Analysis
+-Hypothesis Testing
+-Machine Learning
+-Code Examples
+-Mean, Median, Mode
+-Standard Deviation
+-T-Test
+
+
 To use this repository, you will need Python installed on your machine. The following steps will guide you through the installation of necessary dependencies:
 
 
@@ -63,4 +62,14 @@ Clustering Algorithms (e.g., K-means)
 Decision Trees and Random Forests
 Code Examples
 Mean, Median, Mode
+
+git clone https://github.com/Shabanaalina14/COMPLETE-PYTHON
+
+Contact For any questions or suggestions, please feel free to reach.
+
+Gmail: shabanaalina14@gmail.com
+
+GitHub Profile: shabanaalina14
+
+Happy Coding!
 
