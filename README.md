@@ -12,11 +12,10 @@ This repository provides a collection of statistical concepts, methods, and tech
 - Probability
 - Regression Analysis
 - Hypothesis Testing
-- Machine Learning
 - Code Examples
 - Mean, Median, Mode
 - Standard Deviation
-- T-Test
+  
 
 
 To use this repository, you will need Python installed on your machine. The following steps will guide you through the installation of necessary dependencies:
